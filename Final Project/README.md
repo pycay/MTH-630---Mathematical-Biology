@@ -1,0 +1,1 @@
+My final project for Mathematical Biology. The objective of this project was to study the long term behavior of two mutualistic species modeled by a system of nonlinear differential equations. The dynamical system was illustrated using MATLAB.
